@@ -32,6 +32,6 @@ should see a thumbs up created by ASCII characters, like so:
 
 ![result]
 
-[starter]: https://github.com/appacademy/practice-for-week-09-import-scripts-to-html
+[starter]: https://github.com/appacademy/practice-for-week-09-import-scripts-into-html
 [localhost:5000]: http://localhost:5000
 [result]: https://appacademy-open-assets.s3.us-west-1.amazonaws.com/Modular-Curriculum/content/week-09/practice-import-scripts-into-html/practice-for-week-09-import-scripts-into-html-result.png
